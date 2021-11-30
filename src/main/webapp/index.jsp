@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello World! DEV3L - v2.0</h2>
-      <p class="text-center">Now with Travis-CI!</p>
+      <p class="text-center">Now with Travis-CI and Me!</p>
   </div>
 </body>
 </html>
